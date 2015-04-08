@@ -1,0 +1,102 @@
+body {
+	background-color: #29A3A3;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    margin-right:30px;
+    overflow: scroll;
+}
+
+h1 {
+	text-align: center;
+	font-family: Garamond, serif;
+	color: #cc33ff;
+	font-size:45px;
+	text-shadow: 2px 2px #00476B;
+}
+
+.sidebar_text {
+	color:#D1FFF6;
+}
+
+.profile_pic {
+	display: block;
+	margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#sidebar {
+	float:left;
+	background-color:#2E5C8A;
+	width:250px;
+	height:720px;
+	text-align: center;
+}
+
+#header {
+	height: 135px;
+	background-color: #19A3D1;
+	margin-right:30px;
+	padding-top: 5px;
+	vertical-align: auto;
+
+}
+
+.icon {
+	display:inline-block;
+	padding:35px;
+	vertical-align: auto;
+}
+
+#profile {
+	background-color: #00CC99;
+}
+#profile:hover {
+	background-color:white;
+	padding-top:35px;
+	padding-bottom:45px;
+}
+
+#skills {
+	background-color: #00CFCF;
+}
+#skills:hover {
+	background-color:white;
+	padding-top:35px;
+	padding-bottom:45px;
+}
+
+#work {
+	background-color:#60CDC0;
+}
+#work:hover {
+	background-color:white;
+	padding-top:35px;
+	padding-bottom:45px;
+}
+
+#mail {
+	background-color:#00CEB4;
+}
+#mail:hover {
+	background-color:white;
+	padding-top:35px;
+	padding-bottom:45px;
+}
+
+.center {
+	height: 100%;
+	background-color: #D1FFF6;
+	padding:0px 20px 20px 20px;
+	display:inline-block;
+}
+
+#footer {
+	height: 50px;
+	background-color: #69D2E7;
+    clear:both;
+    margin-right:30px;
+}
